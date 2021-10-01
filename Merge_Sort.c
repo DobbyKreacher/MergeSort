@@ -70,4 +70,5 @@ int main()
     PrintArray(a, size);
     MergeSort(a, low, high);
     PrintArray(a, size);
+    return 0;
 }
